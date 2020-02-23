@@ -1,8 +1,6 @@
 # taragala Application Description
 Blue hacks project resource 2020 "TARA GALA" Web application using Native web tools such as HTML5, CSS, JAVASCRIPT, AJAX and PHP
-for filipino, to encourage the beliefs and awareness of culture through using our web application features that will access our 
-current location and then the system will give the summarized history, culture, language and other information that known on our 
-location.
+, this web application is for filipino to encourage the beliefs and awareness of culture through using our web application features that will access our current location and then the system will give the summarized history, culture, language and other information that known on our location, and also it having some features for travelers and student to learn more about filipino culture and history.
 
 -Installation Guide
 
